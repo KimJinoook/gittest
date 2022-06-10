@@ -8,6 +8,6 @@
 </head>
 <body>
 	<h1>index 페이지</h1>
-	<p>hong</p>
+	<p>chief</p>
 </body>
 </html>
